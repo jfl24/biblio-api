@@ -17,3 +17,10 @@ Cet exercice vise à nous entraîner à faire le lien entre une base de données
 - Créez une base de données sur Neon et copiez le DATABASE_URL dans le fichier .env du projet.
 - npx prisma db push
 - npm run dev
+
+## Pour exécuter les commandes CRUD dans la base de données, exécutez les commandes suivantes :
+
+- npm run read
+- npm run updatedb
+- npm run deletesdb
+- npm run emprunts
